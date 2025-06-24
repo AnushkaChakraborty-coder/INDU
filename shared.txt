@@ -1,0 +1,3 @@
+THIS is a shared file.
+Line1: Original text.
+Line2:Original text.
